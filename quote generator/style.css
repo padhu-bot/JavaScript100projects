@@ -1,0 +1,33 @@
+body{
+  background-color: #fbfd8a;
+}
+.container-fluid {
+  height:300px;
+  width:50%;
+  position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+  text-align: center;
+  background-color: #f7fbe1;
+  border-radius: 2%;
+  border: 0.5rem solid #07031a;
+  border-left: 0;
+  border-right: 0;
+}
+
+#words{
+  text-align: justify;
+  font-size: 1.5rem;
+  padding: 2rem;
+  height: 190px;
+}
+#button{
+  background-color: #f7fbe1;
+  border: 0.25rem solid #07031a;
+  font-size: 1rem;
+  padding: 1rem;
+  border-radius: 10%;
+}
